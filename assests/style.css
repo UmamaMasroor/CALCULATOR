@@ -29,3 +29,17 @@
     cursor: pointer;
     margin: 10px;
 }
+form .input{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+}
+form .input input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+}
+form input.equals-to{
+    width: 145px;
+}
