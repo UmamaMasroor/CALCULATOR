@@ -43,3 +43,6 @@ form .input input{
 form input.equals-to{
     width: 145px;
 }
+form input.logic{
+    color: #33ffd8;
+}
